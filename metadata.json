@@ -1,0 +1,6 @@
+{
+  "name": "Soluciones para tu Hogar",
+  "description": "Marketplace que conecta personas que necesitan resolver problemas del hogar con profesionales independientes y empresas de servicios en Latinoamérica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
